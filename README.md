@@ -24,7 +24,7 @@ $ npm install path --save
 $ napm install ejs --save
 ```
 
-### Outcome:
+## Outcome:
 
 - Created a JSON file called "data.json" about Europe and Asia countries with their capitals.
 - Created a 'views' folder, holding "index.ejs" file which rendered a for loop of a list of countries with the capitals (views/index.ejs).
