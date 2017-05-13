@@ -1,0 +1,15 @@
+<h1>Displaying my Data:</h1>
+
+<%= dataVariable.topic %> by <%= dataVariable.transportation %> to:
+
+<ul>
+  Asia:
+  <% for(var i=0; i<dataVariable.asia.length; i++) { %>
+    <li><%= dataVariable.asia[i].country %> | <%= dataVariable.asia[i].capital %></li>
+    <% } %>
+    <br>
+    Europe:
+  <% for(var i=0; i<dataVariable.europe.length; i++) { %>
+    <li><%= dataVariable.europe[i].country %> | <%= dataVariable.europe[i].capital %></li>
+  <% } %>
+</ul>

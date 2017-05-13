@@ -1,0 +1,32 @@
+{
+  "topic": "Travel",
+  "transportation": "Plane",
+  "asia": [
+    {
+      "country": "Malaysia",
+      "capital": "Kuala Lumpur"
+    },
+    {
+      "country": "Korea",
+      "capital": "Seoul"
+    },
+    {
+      "country": "Japan",
+      "capital": "Tokyo"
+    }
+  ],
+  "europe": [
+    {
+      "country": "Austria",
+      "capital": "Vienna"
+    },
+    {
+      "country": "France",
+      "capital": "Paris"
+    },
+    {
+      "country": "Italy",
+      "capital": "Rome"
+    }
+  ]
+}
